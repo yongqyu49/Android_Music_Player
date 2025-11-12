@@ -12,12 +12,6 @@ Android 기반 음악 재생 애플리케이션입니다. 간단하고 직관적
 - **곡 정보**: 곡 제목과 아티스트 정보 표시
 - **재생 시간**: 현재 재생 시간과 전체 재생 시간 표시
 
-## 포함된 곡 🎶
-
-1. **Lost Stars** - Adam Levine
-2. **Time Is Running Out** - Muse
-3. **Pretender** - Official Hige Dandism
-
 ## 기술 스택 🛠️
 
 - **언어**: Java
